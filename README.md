@@ -1,4 +1,4 @@
-# Mixed message
+# Mixed messages
 ## Background
 This is a *portfolio project* by **Codecademy**. I'm creating this for practice in one of their courses.
 
